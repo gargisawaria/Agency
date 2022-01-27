@@ -1,0 +1,1117 @@
+#top-container .row {
+    background-color: rgb(252, 84, 84);
+    padding: 2%;
+}
+
+#top-container a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.side-pading1 {
+    padding-left: 8%;
+    padding-right: 10%;
+}
+
+.side-pading2 {
+    padding-left: 15%;
+}
+
+.social-style {
+    padding: 1.1%;
+    border-radius: 100%;
+    box-shadow: 1px 1px 8px gray;
+    font-size: 15px !important;
+    height: 30px !important;
+    width: 30px !important;
+    margin-left: 1%;
+}
+
+#top-container select {
+    background-color: rgb(252, 84, 84);
+    color: white;
+    border-style: none;
+    outline: 0px;
+    padding-right: 2%;
+    margin-left: 1%;
+    font-size: 18px;
+}
+
+#top-container option {
+    background-color: white;
+    color: black;
+}
+
+.quote {
+    color: black !important;
+    background-color: white;
+    padding: 1.3%;
+    margin-left: 5%;
+}
+
+.quote:hover {
+    background-color: rgb(252, 84, 84);
+    color: white;
+    box-shadow: 1px 1px 8px gray;
+}
+
+.right-margin {
+    margin-left: 4%;
+}
+
+.left {
+    text-align: center;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.navbar-brand {
+    font-size: 25px !important;
+    padding-left: 5%;
+    color: white;
+    font-weight: bolder;
+}
+
+.navbar-nav {
+    padding-right: 34%;
+}
+
+.nav-item {
+    color: white;
+    margin-left: 9%;
+}
+
+.navbar-nav a:hover,
+.navbar-nav a:focus {
+    color: red !important;
+    border-style: none none solid none;
+    border-width: 1px;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbar-nav a {
+    color: white;
+}
+
+.modal {
+    top: 30% !important;
+}
+
+.navbar-toggler {
+    color: white;
+    list-style-type: none;
+    border-style: none;
+}
+
+.heigh {
+    height: 83vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    z-index: 1;
+}
+
+.carousel-caption {
+    position: relative;
+    z-index: 2;
+    top: 15%;
+}
+
+.www {
+    height: 83vh !important;
+    width: 100vw;
+    object-fit: cover;
+}
+
+.fifty {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+.carousel-para {
+    margin: 0% 17%;
+    font-size: 19px;
+    margin-bottom: 3%;
+}
+
+.carousel-caption a {
+    color: white;
+    text-decoration: none;
+    padding: 0% 3%;
+    font-size: 19px;
+    border-right: 2px double red;
+}
+
+.over:hover {
+    color: white;
+}
+
+.readmore {
+    background-color: white;
+    border-style: none;
+    padding: 1%;
+    margin-top: 3%;
+    border-radius: 10%;
+}
+
+.readmore:hover,
+.readmore:focus {
+    color: white;
+    background-color: rgb(252, 84, 84);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    top: 46% !important;
+    bottom: 46% !important;
+    width: 8vw !important;
+}
+
+.carousel-control-prev {
+    left: 3% !important;
+}
+
+.carousel-control-next {
+    right: 3% !important;
+}
+
+.abs {
+    position: absolute;
+    z-index: 3;
+}
+
+.center {
+    text-align: center;
+}
+
+.card-one-image {
+    border: 1px solid rgb(252, 84, 84);
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    color: rgb(252, 84, 84);
+    font-size: 40px !important;
+    padding: 10px;
+}
+
+.card-padding {
+    padding-top: 3%;
+}
+
+.row-card {
+    padding: 1% 0%;
+    margin: 0% 6% !important;
+    box-shadow: 5px 5px 15px gray;
+    transform: translate(0px, -39%);
+    position: relative;
+    background-color: white;
+    z-index: 1;
+}
+
+.card-heading {
+    margin: 9% 0% 6% 0%;
+    font-weight: bolder;
+}
+
+.card-para {
+    font-size: 20px;
+    margin-bottom: 15%;
+}
+
+.left-boder {
+    border-right: 1px solid rgb(207, 196, 196);
+}
+
+.heding {
+    font-size: 17px;
+    font-weight: bolder;
+    margin-bottom: 4%;
+}
+
+.background {
+    object-fit: cover !important;
+}
+
+.pad-style {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.mar-style {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.grey {
+    background-color: rgb(243, 239, 239);
+}
+
+.about {
+    margin-top: 16%;
+    font-weight: bolder;
+    padding-left: 1%;
+}
+
+.namee {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.mar-top {
+    margin-top: 4%;
+    padding-left: 1%;
+}
+
+.div-para {
+    background-color: white;
+    padding: 3%;
+    margin-top: 8%;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 1%;
+    margin-right: 15%;
+    margin-bottom: 8%;
+}
+
+.signature {
+    width: 110px;
+}
+
+.twenty {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.readmore2 {
+    background-color: rgb(252, 84, 84);
+    color: white;
+    padding: 2.5%;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 5%;
+    margin-top: 16%;
+}
+
+.readmore2:hover,
+.readmore2:focus {
+    background-color: white;
+    color: black;
+}
+
+.service {
+    font-weight: bolder;
+    margin-top: 10%;
+}
+
+.card-two-image {
+    font-size: 40px !important;
+    margin-top: 15%;
+}
+
+.black {
+    color: black;
+}
+
+.smallhr {
+    margin: 3% 40%;
+    opacity: 1;
+}
+
+.card-para2 {
+    font-size: 20px;
+    margin-bottom: 15%;
+    padding: 0% 7%;
+}
+
+.border-box {
+    box-shadow: 2px 2px 9px grey;
+    border-radius: 2%;
+    background-color: white;
+    transition: background-color 700ms;
+    transition-timing-function: ease-out;
+}
+
+.border-box:hover {
+    background-color: rgb(252, 84, 84);
+    color: white;
+}
+
+.side-paing-3 {
+    margin-left: 8%;
+}
+
+.side-paing-4 {
+    margin: 0% 1% 0% 5.5%;
+}
+
+#margin-bottom {
+    margin-bottom: 13%;
+}
+
+.icons {
+    background-color: rgb(252, 84, 84);
+    color: white;
+    height: 50px;
+    width: 50px;
+    padding: 1.3% !important;
+    font-size: 30px !important;
+}
+
+.heding2 {
+    font-weight: bolder;
+    margin: 3% 0%;
+}
+
+.eighteen {
+    font-size: 18px;
+}
+
+.choose {
+    font-weight: bolder;
+    margin-top: 9%;
+    margin-bottom: 3%;
+    font-size: 50px;
+}
+
+.hh {
+    height: 100vh;
+}
+
+.left-style {
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+
+.twentyfive {
+    font-size: 25px;
+}
+
+.email {
+    padding-right: 25%;
+    font-size: 20px;
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 3%;
+    outline: none;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.6);
+    box-shadow: 3px 0px 1px black;
+    border-radius: 50px 0% 0% 50px;
+    color: white;
+    min-width: 40vw;
+}
+
+.suscribe {
+    padding-top: 3%;
+    padding-left: 2%;
+    padding-bottom: 3%;
+    font-size: 20px;
+    padding-right: 20%;
+    outline: none;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.6);
+    box-shadow: -3px 0px 1px black;
+    border-radius: 0% 50px 50px 0%;
+    color: rgb(104, 99, 99);
+    min-width: 20vw;
+}
+
+.imagecon {
+    background-color: rgba(252, 84, 84, 0.5);
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.choosee {
+    font-weight: bolder;
+}
+
+.heightt {
+    height: 50vh !important;
+}
+
+.btnn {
+    background-color: white;
+    border: 1px solid black;
+    font-size: 16px;
+    vertical-align: middle;
+    margin: 1.5%;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+}
+
+.btnn:hover {
+    background-color: rgb(252, 84, 84);
+    color: white;
+    border: none !important;
+    box-shadow: 1px 2px 4px rgb(104, 99, 99);
+    cursor: pointer;
+}
+
+.btn-padd {
+    padding: 0% 8% 0% 23%;
+}
+
+.image1 {
+    height: 90vh;
+    width: 100%;
+}
+
+.imagecont {
+    position: relative;
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+}
+
+.image2 {
+    height: 45vh !important;
+    width: 100%;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    transform: scale(0);
+    transition: .3s ease;
+    padding: 0% 3%;
+}
+
+.text {
+    color: white;
+    font-size: 17px;
+    position: absolute;
+    top: 44%;
+}
+
+.text1 {
+    color: white;
+    font-size: 17px;
+    position: absolute;
+    top: 30%;
+}
+
+.overlay1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    transform: scale(0);
+    transition: .3s ease;
+    padding: 0% 3%;
+}
+
+.hello:hover .overlay1 {
+    transform: scale(1);
+}
+
+.hello {
+    position: relative;
+    margin-bottom: 6.5%;
+}
+
+.hello:hover .overlay {
+    transform: scale(1);
+}
+
+.readmore3 {
+    background-color: rgb(252, 84, 84);
+    color: white;
+    padding: 1%;
+    font-size: 20px;
+    border-style: none;
+    border-radius: 5%;
+    margin-top: 1%;
+    margin-bottom: 12%;
+}
+
+.readmore3:hover,
+.readmore3:focus {
+    background-color: white;
+    color: black;
+}
+
+.cardd {
+    background-color: rgb(252, 84, 84);
+    padding: 1% 1.5%;
+    color: white;
+    width: 100px;
+    position: absolute;
+    z-index: 1;
+    transform: translate(8%, 43%);
+}
+
+.sign-cont {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.vertical {
+    position: relative;
+    top: 50%;
+    transform: translate(0%, -50%);
+}
+
+.hll {
+    height: 43vh !important;
+}
+
+.he {
+    height: 80vh !important;
+}
+
+.half {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    width: 100%;
+    height: 0%;
+    transition: .3s ease;
+}
+
+.full {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    width: 100%;
+    height: 0%;
+    transition: .3s ease;
+}
+
+.helloo:hover .half {
+    height: 50%;
+}
+
+.card-inner:hover .hellooo .full {
+    height: 100%;
+}
+
+.tex {
+    color: white;
+    text-align: center;
+    padding-top: 17%;
+}
+
+.texx {
+    color: white;
+    text-align: center;
+    padding-top: 25%;
+}
+
+.hellooo {
+    position: relative;
+}
+
+.helloo {
+    position: relative;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.social {
+    border-radius: 100%;
+    font-size: 18px !important;
+    margin: 1%;
+    background-color: white;
+    color: black;
+    padding: 2%;
+    height: 35px !important;
+    width: 35px !important;
+}
+
+.sociall {
+    border-radius: 100%;
+    font-size: 25px !important;
+    margin: 3%;
+    background-color: white;
+    color: black;
+    padding: 2.5%;
+    height: 50px !important;
+    width: 50px !important;
+    text-align: center;
+}
+
+.ca-style {
+    padding: 0% 1.5% !important;
+    margin-bottom: 4% !important;
+}
+
+#carouselExample li {
+    background-color: black;
+    opacity: 1;
+    height: 8px !important;
+    width: 50px;
+    transform: translate(0%, 60px);
+    margin-left: 1%;
+}
+
+#carouselExample ul .active {
+    background-color: rgb(252, 84, 84) !important;
+}
+
+.last {
+    border: 1px solid black;
+    height: 80px !important;
+    padding: 0% 2%;
+}
+
+.mar-b {
+    margin-bottom: 10%;
+}
+
+.blackbg {
+    background-color: black;
+    padding-top: 6%;
+    padding-bottom: 7%;
+    color: white;
+}
+
+.para-color {
+    color: grey;
+    font-size: 19px;
+}
+
+.para-color:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.belowhr {
+    margin: 1% 0% !important;
+    width: 55px;
+    height: 2px !important;
+    opacity: 1;
+    color: white;
+}
+
+.marg {
+    margin: 10% 0% 13% 0%;
+}
+
+.font-style {
+    font-size: 15px;
+    color: grey;
+}
+
+.hl {
+    height: 80px !important;
+}
+
+.hoverr:hover .font-style,
+.hoverr:hover {
+    color: white !important;
+    cursor: pointer;
+}
+
+.bracket {
+    width: fit-content;
+    display: inline-block;
+    padding: 1.5%;
+    font-size: 20px;
+    border: 1px solid white;
+    margin: 1.5%;
+}
+
+.bracket:hover {
+    cursor: pointer;
+}
+
+.border-style {
+    padding: 0% 1% !important;
+}
+
+.bb {
+    border: 0.5px solid red;
+}
+
+.belowcont {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 2.2% 0%;
+    font-size: 20px;
+}
+
+.texttt {
+    padding: 4%;
+}
+
+.card-inner {
+    margin: 5%;
+    box-shadow: 2px 2px 5px grey;
+}
+
+.hrstyle {
+    width: 55%;
+    opacity: 1;
+    color: black;
+}
+
+.fo {
+    font-size: 22px !important;
+}
+
+.read {
+    color: rgb(252, 84, 84);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.read:hover {
+    color: rgb(252, 84, 84);
+}
+
+.image-height {
+    height: 280px !important;
+}
+
+.chev {
+    position: fixed;
+    bottom: 4%;
+    left: 93%;
+    z-index: 5;
+}
+
+.chevv {
+    font-size: 50px !important;
+    color: rgb(252, 84, 84);
+    opacity: 1;
+}
+
+
+/*media*/
+
+@media only screen and (min-device-width: 760px) and (max-device-width: 900px) {
+    .text {
+        top: 30%;
+    }
+    .text1 {
+        top: 10%;
+    }
+    .heding {
+        padding: 0% 5%;
+    }
+}
+
+@media screen and ( max-width: 800px) {
+    .side-pading1 {
+        padding-left: 2% !important;
+        padding-right: 4% !important;
+        font-size: 14px !important;
+    }
+    .side-pading2 {
+        padding-left: 4% !important;
+        padding-right: 4% !important;
+        font-size: 14px !important;
+    }
+    .quote {
+        margin-left: 3% !important;
+        font-size: 14px !important;
+    }
+    #top-container select {
+        padding-right: 2% !important;
+        margin-left: 2% !important;
+        font-size: 14px;
+    }
+    .navbar-collapse {
+        background-color: white;
+        position: relative;
+        top: 90%;
+        left: 2%;
+        right: 2%;
+        bottom: 0%;
+    }
+    .nav-link {
+        color: black !important;
+    }
+    .navbar-nav {
+        padding-right: 0% !important;
+    }
+    .nav-item {
+        margin-left: 0% !important;
+        text-align: center;
+    }
+    .nav-link:hover {
+        text-decoration: underline;
+        border-style: none !important;
+        text-underline-position: under;
+    }
+    .carousel-para {
+        margin: 0%;
+        margin-bottom: 3%;
+    }
+    .carousel-caption {
+        top: 9% !important;
+    }
+    .row-card {
+        transform: translate(0px, -21%);
+    }
+    .div-para {
+        font-size: 15px;
+        margin-right: 1%;
+        margin-bottom: 15%;
+    }
+    .namee {
+        font-size: 20px;
+    }
+    .twenty {
+        font-size: 15px;
+    }
+    .readmore2 {
+        margin-top: 31%;
+    }
+    .side-paing-3 {
+        margin-left: 6%;
+    }
+    .padding-con2 {
+        padding: 0% 5% 0% 5.5%!important;
+    }
+    .hh {
+        height: 90vh;
+    }
+    .btnn {
+        margin: 1% 4% !important;
+    }
+    .btn-padd {
+        padding: 0%;
+    }
+}
+
+@media screen and ( max-width: 759px) {
+    .row-card {
+        transform: translate(0px, 0%);
+    }
+    .padding-con {
+        padding: 0% 7% !important;
+    }
+    .side-paing-3 {
+        margin-left: 0%;
+        margin-bottom: 5%;
+    }
+    .side-paing-4 {
+        margin-left: 0%;
+        margin-bottom: 5%;
+    }
+    .img-padding {
+        padding: 0%;
+    }
+    .padding-con2 {
+        padding: 0% 4.5%!important;
+    }
+    .email {
+        padding-right: 12%;
+        font-size: 20px;
+        padding-left: 2%;
+    }
+    .suscribe {
+        padding-left: 2%;
+        font-size: 20px;
+        padding-right: 12%;
+    }
+    .card-padding {
+        padding-top: 3%;
+        margin: 6% 0%;
+        box-shadow: 2px 2px 5px grey;
+    }
+    .row-card {
+        margin: 0% !important;
+        box-shadow: none;
+        transform: none;
+    }
+    .readmore {
+        margin-top: 8%;
+        padding: 2%;
+    }
+    .hll {
+        height: 135vh !important;
+    }
+    #carouselExample li {
+        margin-bottom: 5% !important;
+    }
+    .belowhr {
+        width: 45px;
+    }
+    .marg {
+        margin: 10% 0% 9% 0%;
+    }
+    .belowcont {
+        padding: 7% 0%;
+        font-size: 15px;
+    }
+    .chev {
+        left: 85%;
+    }
+}
+
+@media screen and ( max-width: 426px) {
+    .left {
+        text-align: center;
+        padding-top: 4%;
+        padding-bottom: 2%;
+        font-size: 1px;
+    }
+    .right-margin {
+        margin-left: 0% !important;
+    }
+    .side-pading2 {
+        padding-left: 25% !important;
+    }
+    #top-container .row {
+        background-color: rgb(252, 84, 84);
+        padding: 2% 0% !important;
+    }
+    .side-pading1 {
+        padding-left: 8% !important;
+        padding-right: 10%;
+    }
+    .quote {
+        margin-left: 3%;
+        font-size: 14px !important;
+    }
+    #top-container select {
+        padding-right: 0% !important;
+        margin-left: 0% !important;
+    }
+    .social-style {
+        height: 24px !important;
+        width: 24px !important;
+    }
+    #top-container a {
+        font-size: 13px !important;
+    }
+    .fifty {
+        font-size: 27px;
+    }
+    .carousel-para {
+        font-size: 14px;
+    }
+    .carousel-caption a {
+        font-size: 14px;
+    }
+    .carousel-control-next,
+    .carousel-control-prev {
+        color: white;
+        background-color: rgb(252, 84, 84) !important;
+        border-style: none !important;
+        border-radius: 50%;
+        height: 35px;
+        width: 35px !important;
+        padding: 7px !important;
+    }
+    .carousel-caption {
+        top: 20% !important;
+    }
+    .left-boder {
+        border-right: none;
+    }
+    .card-padding-two {
+        margin-top: 3% !important;
+    }
+    .heding {
+        margin-bottom: 13%;
+    }
+    .pad-left {
+        padding-left: 13% !important;
+    }
+    .eighteen {
+        font-size: 15px;
+    }
+    .choose {
+        font-size: 35px;
+    }
+    .left-style {
+        margin-left: 2%;
+    }
+    .twentyfive {
+        font-size: 18px;
+    }
+    .email {
+        padding-right: 0% !important;
+        font-size: 20px;
+        padding-left: 2%;
+    }
+    .suscribe {
+        padding-left: 2%;
+        font-size: 20px;
+        padding-right: 3%;
+    }
+    .heightt {
+        height: 40vh !important;
+    }
+    .btn-padd {
+        padding: 0% 3% 0% 3%;
+    }
+    .btnn {
+        margin: 2%;
+    }
+    .last {
+        height: 60px !important;
+    }
+}
+
+@media screen and ( max-width: 377px) {
+    .side-pading2 {
+        padding-left: 17% !important;
+    }
+    .pad-left {
+        padding-left: 10% !important;
+    }
+}
+
+@media screen and ( max-width:321px) {
+    .side-pading2 {
+        padding-left: 5.5% !important;
+    }
+    .carousel-caption a {
+        padding: 0% 2% !important;
+    }
+    .pad-left {
+        padding-left: 0% !important;
+    }
+    .namee {
+        font-size: 15px;
+    }
+    .padding-con2 {
+        padding: 3% !important;
+    }
+    .choose {
+        font-size: 30px;
+    }
+    .email {
+        font-size: 15px;
+    }
+    .suscribe {
+        font-size: 15px;
+    }
+}
